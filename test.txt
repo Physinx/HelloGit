@@ -2,3 +2,4 @@ Hello Git
 This is edit test
 Don’t mind me
 once more edit!
+>>>now branch test
